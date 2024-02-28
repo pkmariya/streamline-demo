@@ -1,2 +1,2 @@
-# streamline-demo
+# streamlit-demo
 Streamlit demo app
